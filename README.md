@@ -6,6 +6,8 @@ Since Curse doesn't release any modpack installers for servers, this script aim 
 
 It is not intended as a replacement for CurseClient or CurseVoice installer, nor any future product released by them.
 
+Inspired by [curseDownloader](https://github.com/portablejim/curseDownloader)
+
 ## Features
 
 - Automatically download required mods
