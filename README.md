@@ -2,7 +2,7 @@
 
 # Modpack Helper
 
-Since Curse doesn't release any modpack installers for servers, this script aim to ease the deployement of modded Minecraft servers.
+Since Curse doesn't release any modpack installers for servers, this script aim to ease the deployment of modded Minecraft servers.
 
 It is not intended as a replacement for CurseClient or CurseVoice installer, nor any future product released by them.
 
